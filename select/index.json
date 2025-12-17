@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロブロイ",
+  "base_artist": "黑木",
+  "createdAt": "2025-12-17T07:04:29.811739Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロブロイ",
+      "artist": "黑木",
+      "has_synced": false,
+      "path": "select/pl_01_ロブロイ_黑木.txt"
+    }
+  ]
+}
